@@ -3,12 +3,11 @@
   "name": "Legendary Waddle",
   "version": "1.0",
   "action": {
-    "default_popup": "",
-    "default_icon": ""
+    "default_popup": "index.html",
+    "default_icon": "philapple.png"
   },
-  "default_locale": "en",
   "description": "",
   "icons": {
-    
+
   }
 }
