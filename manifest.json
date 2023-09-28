@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Legendary Waddle",
+  "version": "1.0",
+  "action": {
+    "default_popup": "",
+    "default_icon": ""
+  },
+  "default_locale": "en",
+  "description": "",
+  "icons": {
+    
+  }
+}
